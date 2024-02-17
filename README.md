@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a Top Down RPG project using the Unity engine and C#, and all I did was basically write scripts for character and orc monsters, includeing the design of the character and orcs movement, trigger detection zone, health, attack power and a series of numerical calculations,etc. Then hang the different scripts wherever they are needed. 
+This is a Top Down RPG project using the Unity engine and C#, and all I did was basically write scripts for character and orc monsters, including the design of the character and orcs movement, trigger detection zone, health, attack power and a series of numerical calculations,etc. Then hang the different scripts wherever they are needed. 
 
 ## Scripts
 
